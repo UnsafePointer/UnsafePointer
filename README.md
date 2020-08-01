@@ -1,6 +1,6 @@
-### Shinobu: A Game Boy debugger, disassembler and emulator
+### Shinobu: A Game Boy and Game Boy Color debugger, disassembler and emulator
 
-![shinobu/red.gif](https://github.com/UnsafePointer/UnsafePointer/raw/master/shinobu/red.gif)
+![shinobu/gold.gif](https://github.com/UnsafePointer/UnsafePointer/raw/master/shinobu/gold.gif)
 ![shinobu/metroid.gif](https://github.com/UnsafePointer/UnsafePointer/raw/master/shinobu/metroid.gif)
 
 ### Ruby: A PlayStation emulator
